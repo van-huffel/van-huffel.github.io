@@ -8,7 +8,7 @@ subtitle: <i>The science of today is the technology of tomorrow.</i> - Edward Te
 
 profile:
   align: right
-  image: profile
+  image: profile.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>ETH Zurich, Switzerland</p>
