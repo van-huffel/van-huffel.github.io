@@ -1,8 +1,8 @@
 ---
-layout: default
-permalink: /cv/
+layout: cv
+permalink: /assets/pdf/resume.pdf
 title: cv
 nav: true
 nav_order: 4
-redirect_to: ../assets/pdf/curriculumvitae.pdf
+cv_pdf: cuuu.pdf
 ---
