@@ -2,11 +2,19 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+titlecapital: Teaching
+description: Course materials from my tenure as a teaching assistant during my Bachelor's and Master's studies at ETH Zurich.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+<div class="projects">
+  <!-- Display projects without categories -->
+  {%- assign sorted_projects = site.projects | sort: "importance" -%}
+  <!-- Generate cards for each project vertically -->
+  {%- for project in sorted_projects -%}
+    <div class="grid"> 
+    {% include projects.html %}
+    </div>
+  {%- endfor %}
+</div>

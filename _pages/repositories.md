@@ -3,6 +3,7 @@ layout: page
 permalink: /repositories/
 title: repositories
 nav: true
+description:  Explore my academic journey's projects, summaries, and homework assignments here.
 titlecapital: Repositories
 nav_order: 3
 ---
