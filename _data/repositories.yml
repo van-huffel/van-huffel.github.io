@@ -2,4 +2,9 @@ github_users:
   - majkevh
 
 github_repos:
-  - majkevh/test
+  - majkevh/eth-intro-ml-fs22
+  - majkevh/eth-mavt
+  - majkevh/eth-math-stats
+  - majkevh/eth-stats-learning-fs23
+  - majkevh/eth-evolution-strategies-rl
+  
