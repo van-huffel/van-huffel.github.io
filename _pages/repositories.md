@@ -1,8 +1,8 @@
-<!-- ---
+---
 layout: page
 permalink: /repositories/
 title: repositories
-nav: true
+nav: false
 description:  Explore my academic journey's projects, summaries, and homework assignments here.
 titlecapital: Repositories
 nav_order: 3
@@ -15,4 +15,4 @@ nav_order: 3
     {% include repository/repo.html repository=repo %}
   {% endfor %}
 </div>
-{% endif %} -->
+{% endif %} 
