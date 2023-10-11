@@ -595,8 +595,11 @@ footer.sticky-bottom {
   }
 
   .card {
+    width: 525pt;
+    height: auto;
     img {
-      width: 100%;
+      width: 0pt;
+      height: 0pt;
     }
   }
 
