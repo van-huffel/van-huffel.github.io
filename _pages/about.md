@@ -8,10 +8,10 @@ subtitle: <i>The science of today is the technology of tomorrow.</i> - Edward Te
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>ETH Zürich, Switzerland</p>
+    <p>ETH Zurich, Switzerland</p>
     <p>michavan@student.ethz.ch</p>
     <p>+41 79 289 74 69</p>
 
@@ -21,7 +21,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a second-year student pursuing a Master's degree in Mathematics (Statistics) at the Eidgenössische Technische Hochschule of Zürich. My academic interests encompass a wide range of subjects, including algebraic topology, statistical learning theory, time series analysis, artificial intelligence, natural language processing, computational geometry, graph theory, and formal language theory.
+I am a second-year student pursuing a Master's degree in Mathematics (Statistics) at the Eidgenössische Technische Hochschule of Zurich. My academic interests encompass a wide range of subjects, including algebraic topology, statistical learning theory, time series analysis, artificial intelligence, natural language processing, computational geometry, graph theory, and formal language theory.
 
 Throughout my academic journey, I have had the opportunity to engage in various projects that have contributed to my growth and understanding of these fields. In addition, I have worked as a teaching assistant for several semesters, where I have had the opportunity to share my knowledge and support fellow students in their studies.
 
