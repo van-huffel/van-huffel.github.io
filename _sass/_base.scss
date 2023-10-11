@@ -223,6 +223,10 @@ blockquote {
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
   border: 1px solid var(--global-divider-color);
+  position: absolute; /* Change the position property */
+  top: 100%; /* Adjust the top value to change the vertical position */
+  left: 0%; /* Adjust the left value to change the horizontal position */
+  width: 245pt;
 
   a:not(.active) {
     color: var(--global-text-color);
