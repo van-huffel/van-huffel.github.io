@@ -51,7 +51,12 @@ Taking inspiration from the seminal works of [Salimans et al (2017)](https://arx
 For representing policies, I opted for linear policies with batch normalization. Throughout the optimization process, I employed individual selection, assigning a weight close to zero to the bottom-performing $$25\%$$ of the population at each generational step. Additionally, I maintained a discount factor of $$\gamma = 1$$ and limited the maximum number of steps per environment to $$T = 1000$$. Subsequently, I conducted a comprehensive performance comparison of my algorithms with two established benchmarks: [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477) (TRPO) and the Evolutionary Algorithm from [Salimans et al.(2017)](https://arxiv.org/abs/1703.03864) (ES-Sal).
 
 #### Results and Observations
-<img src="/assets/img/es.png" alt="Results" width="750px" height=auto>
+<figure>
+  <img src="/assets/img/es.png" alt="Results" width="750px" height="auto">
+  <figcaption> Caption: Results of the research. For each task, the dimensionality D of the problem is reported near its name (D is equal to the dimension of action space multiplied by dimension of observation space), as well as the type of covariance matrix utilized (full or diagonal).
+
+ </figcaption>
+</figure>
 
 The figures above show that most of the algorithms proposed in this work are capable of training policies for simple Mujoco locomotion tasks. The results obtained also make it clear that all four algorithms outperform both the TRPO and Evolutionary Strategies (ES) algorithms  in the Inverted Pendulum task. For the Swimmer task, it is evident that all algorithms are outperformed by the ES-Sal algorithm. However, the SNM and EM algorithms still outperform the TRPO algorithm. On the other hand, the other algorithms either perform worse (NGA) or fail to achieve any rewards (MAP).
 
