@@ -8,6 +8,6 @@ children:
     - title: Persistent homology of the cosmic web 
       permalink: /homology/
     - title: divider
-    - title: Evolution Strategies in Reinforcement learning
-      permalink: /homology/
+    - title: Direct Policy Search via Evolutionary Algorithms
+      permalink: /evolution/
 ---
