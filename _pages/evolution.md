@@ -63,3 +63,5 @@ For the remaining locomotion tasks (Hopper and Walker2D), all my algorithms coul
 
 #### Conclusion
 This study aimed to develop straightforward algorithms for effective performance on common continuous control locomotion tasks in MuJoCo. While algorithms like MAP, SNM, and EM demonstrated state-of-the-art sample efficiency on certain basic benchmark control problems when employing linear policies, my findings shed light on potential limitations associated with a strictly theoretical approach in algorithm derivation. Notably, the absence of an evolutionary path, the "rank-$$\mu$$" update, and the failure to scale the gradient step, as discussed in [Mania et al. (2018)](https://arxiv.org/abs/1803.07055), can hinder algorithm convergence to a state-of-the-art level in certain scenarios. These insights underscore the importance of striking a balance between theoretical underpinnings and practical considerations when developing algorithms for reinforcement learning in complex tasks.
+
+The code for this work is available [here](https://github.com/majkevh/eth-evolution-strategies-rl).
