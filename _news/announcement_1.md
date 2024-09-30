@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2024-02-19 15:59:00-0400
+date: 2024-08-31 07:59:00-0400
 inline: true
 related_posts: false
 ---
-
-I am commencing my Master's Thesis at Imperial College London!
+My paper *Discrete transforms of quantized persistence diagrams* has been accepted to the [SIAM ALENEX 2025](https://www.siam.org/conferences-events/siam-conferences/alenex25/) Conference!
