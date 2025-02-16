@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am Michael Etienne Van Huffel, a recent graduate from the [Eidgenössische Technische Hochschule of Zurich](https://ethz.ch/en.html), where I earned a Master’s degree in Mathematics (Statistics) this winter. Before that, I completed my Bachelor’s degree in Mechanical Engineering, also at ETH. My academic interests encompass diverse topics such as autonomous systems, large-scale optimization, statistical learning theory, model predictive control, trustworthy artificial intelligence, reinforcement learning, dynamical systems, and high-dimensional statistics.
+I am Michael Etienne Van Huffel, a recent graduate from the [Eidgenössische Technische Hochschule of Zurich](https://ethz.ch/en.html), where I earned a Master’s degree in Mathematics (Statistics) this winter. Before that, I completed my Bachelor’s degree in Mechanical Engineering, also at ETH. My academic interests encompass diverse topics such as  statistical learning theory, trustworthy artificial intelligence, autonomous systems, large-scale optimization, reinforcement learning, natural language processing, deep learning, and high-dimensional statistics.
 
 Throughout my academic journey, I have had the opportunity to engage in various projects that have contributed to my growth and understanding of these fields, including completing my master thesis in exchange at Imperial College. In addition, I have worked as a teaching assistant for several semesters, where I had the opportunity to share my knowledge and support fellow students in their studies.
 
