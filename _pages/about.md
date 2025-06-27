@@ -24,4 +24,4 @@ I am Michael Etienne Van Huffel, a recent graduate of ETH Zurich (Eidgenössisch
 
 I am broadly interested in diverse topics such as statistical learning theory, autonomous systems, reinforcement learning, computational topology, natural language processing, and deep learning.
 
-Beyond my academic pursuits, I lead an active lifestyle. In my free time, I enjoy traveling, powerbuilding, climbing, trekking, downhill, skiing, swimming, and running. Feel free to explore my work and connect with me. I welcome opportunities to collaborate and engage in discussions related to research and shared interests.
+Outside academia, I'm passionate about powerbuilding, climbing, trekking, skiing and downhill. I also enjoy reading, playing chess, and photography. Feel free to explore my work and connect with me. I welcome opportunities to collaborate and engage in discussions related to research and shared interests.
