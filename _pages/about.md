@@ -11,7 +11,7 @@ profile:
   image: profile.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Max Planck Institute for Intelligent Systems</p>
+    <p>Max Planck Institute, Germany</p>
     <p>Phone: +41 79 289 74 69</p>
 
 news: true  # includes a list of news items
