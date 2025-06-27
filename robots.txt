@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://majkevh.github.io/sitemap.xml
+Sitemap: https://van-huffel.github.io/sitemap.xml
