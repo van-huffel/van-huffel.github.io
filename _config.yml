@@ -66,11 +66,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: majkevh # your GitHub user name
+github_username: van-huffel # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: michael-van-huffel-a9b247266 # your LinkedIn user name
+linkedin_username: michael-etienne-van-huffel-a9b247266 # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: dH3CwhMAAAAJ&hl=it # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -166,9 +166,9 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  projects:
-    output: false
-    permalink: /projects/:path/
+  #projects:
+   # output: false
+    #permalink: /projects/:path/
 
 announcements:
   enabled: true
